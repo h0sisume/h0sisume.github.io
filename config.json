@@ -1,6 +1,12 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
+    "title":"HOSISUME",
+    "subTitle":"phantaXy",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+
+    "onePageListNum":10,
+    "singlePage":["Home", "Project", "Otaku"],
+    "i18n":"CN",
+    "UTC":8,
+    "bottomText":"(のヮの)"
 }
